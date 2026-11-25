@@ -1,0 +1,46 @@
+{
+  "reels": [
+    {
+      "id": "travel1-carry-on-only",
+      "title": "Pack Carry-On Only",
+      "accent": "#38BDF8",
+      "points": ["Pick 3 colors", "Roll, don't fold", "Wear the bulky shoes"],
+      "narration": "Want to travel with just a carry-on? Here's how. First, pick three colors that all match, so every top works with every bottom. Second, roll your clothes instead of folding them to save space. Third, wear your bulkiest shoes and jacket on the plane. No baggage fees, no waiting at the carousel, and you can walk straight out of the airport."
+    },
+    {
+      "id": "travel2-cheaper-flights",
+      "title": "Cheaper Flights",
+      "accent": "#FACC15",
+      "points": ["Search flexible dates", "Try nearby airports", "Set price alerts"],
+      "narration": "Stop overpaying for flights. First, search with flexible dates, because moving your trip by a day or two can change the price a lot. Second, check nearby airports, since a short train ride can save you real money. Third, set a price alert and book when it drops. Always compare the total price, including bags, before you pay."
+    },
+    {
+      "id": "travel3-eat-like-a-local",
+      "title": "Eat Like a Local",
+      "accent": "#FB923C",
+      "points": ["Walk two streets away", "Go where locals queue", "Ask a local"],
+      "narration": "Want better food on your trip? Walk two streets away from the main sights, where prices drop and quality goes up. Look for places with a menu in the local language and a line of locals at lunchtime. And just ask. Ask your host, a shopkeeper, or a taxi driver where they eat. The best meal of your trip is usually unplanned."
+    },
+    {
+      "id": "travel4-avoid-tourist-traps",
+      "title": "Skip the Tourist Traps",
+      "accent": "#F472B6",
+      "points": ["Go early or late", "Skip restaurants by landmarks", "Book tickets online"],
+      "narration": "Tourist traps waste your time and money. Visit the famous spots early in the morning or late in the day, when the crowds are smaller. Avoid restaurants right next to big landmarks, because they usually charge more for less. And book popular tickets online ahead of time, so you skip the long line. Then spend the saved hours exploring somewhere new."
+    },
+    {
+      "id": "travel5-travel-safety",
+      "title": "Stay Safe Abroad",
+      "accent": "#4ADE80",
+      "points": ["Copy your documents", "Keep cards separate", "Share your plans"],
+      "narration": "A few simple habits keep you safe on the road. Take photos of your passport and important documents, and save them somewhere secure online. Keep your cards in two different places, so losing one bag isn't a disaster. And share your plans with someone at home. Stay aware in crowded places, and trust your gut. A little prep keeps the trip stress free."
+    },
+    {
+      "id": "travel6-before-you-fly",
+      "title": "Before You Fly Checklist",
+      "accent": "#A78BFA",
+      "points": ["Passport valid long enough", "Phone and data sorted", "Travel insurance"],
+      "narration": "Before you leave, run through this quick checklist. Check that your passport is valid for long enough, because some countries require months of validity. Sort out your phone, whether that's roaming or a local SIM, and download offline maps. Look into travel insurance, and save your bookings offline. Do this the week before, and the day you fly is calm instead of chaos. Follow for more travel tips."
+    }
+  ]
+}
